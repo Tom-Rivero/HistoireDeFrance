@@ -8,6 +8,7 @@ dependencies = ["fastapi",
 "litellm",
 "python-dotenv",
 "docker",
+"pytest",
 ]
 
 
